@@ -1,12 +1,11 @@
 ---
-tags: kids, mvc
+tags:
 languages: ruby
-type: interactive practice
+type:
 ---
 
 ##Sinatra Template
 
-Fork and clone this repository to use as a template for your project.
-
+This is a web application to track which U.S. States Joseph Guarino has visited.
 
 
